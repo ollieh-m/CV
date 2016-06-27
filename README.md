@@ -7,24 +7,20 @@ I completed the course in July, and am now very excited to be seeking my first j
 
 ## My Code…
 
-#### Phlash - https://github.com/missamynicholson/phlash - fork
+#### [**Phlash**](https://github.com/missamynicholson/phlash) | Made in two weeks
 Image-messaging iPhone app. Swipe right to take and send a picture to your followers. Swipe left to see the phlashes sent by the people you’re following. 
-Made in two weeks.
 Swift, Xcode, Parse.
 
-#### Memeories - https://github.com/missamynicholson/memeories - fork
+#### [**Memeories**](https://github.com/missamynicholson/memeories) | Made in four days
 Meme generator. Search for an image that reflects your mode, enter a top and bottom caption to create your meme, then see it on the Memeories mood board or post it in slack. 
-Made in four days.
 Ruby on Rails, Capybara, Rspec, Postgres, Cloudinary, Amazon Web Services.
 
-#### Instagram clone - https://github.com/ollieh-m/instagram-challenge
+#### [**Instagram clone**](https://github.com/ollieh-m/instagram-challenge) | Made in three days
 Post, comment on and like photos. Follow other users to get only their posts in your feed. 
-Made in three days.
 Ruby on Rails, Amazon Web Services, Capybara, Rspec, Postgres.
 
-#### News Feed - https://github.com/ollieh-m/news-feed
+#### [**News Feed**](https://github.com/ollieh-m/news-feed) | Made in two days
 Get live headlines from the Guardian, relevant images from Getty Images, and a summary of each article. 
-Made in two days.
 Angular, Getty Images API, Aylien API, Protractor, Karma
 
 ## Fast-learner…
@@ -41,9 +37,9 @@ Before joining Makers Academy, my job was to build and organise campaign teams a
 I’m used to working in teams, and I love it – learning from each other, supporting each other, and achieving more than you could even imagine achieving on your own.
 
 At Makers Academy, I learnt to collaborate on code.
--	All coding Monday to Friday was pair-programming
--	Daily standups, weekly retros and regular code reviews
--	On three projects, we worked in small teams using a fully agile development process
+-	all coding Monday to Friday was pair-programming
+-	daily standups, weekly retros and regular code reviews
+-	on three projects, we worked in small teams using a fully agile development process
 
 ##Education
 
