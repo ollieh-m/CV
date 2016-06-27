@@ -1,6 +1,6 @@
-[Fast Learner](#Fastlearner) | [Team Player](#Teamplayer) | [Highly Organised](#Highlyorganised) | [My Code](#Mycode)
+[Me](#Me) | [My Code](#Mycode) | [Fast Learner](#Fastlearner) | [Team Player](#Teamplayer) | [Highly Organised](#Highlyorganised) | [Education](#Education) | [Experience](#Experience) | [Other](#Other)
 
-## Ollie Haydon-Mulligan
+##<a name="Me">Ollie Haydon-Mulligan</a>
 
 **Diligent problem-solving enthusiast, pushing myself every day to learn and improve.**
 
@@ -52,7 +52,7 @@ I managed the General Election print scheme across the region, overseeing the pl
 
 I led the organisation of Labour Party election campaigns – including responsibility for campaign strategy, message, visits and events, print, voter contact on the doors and phones, and volunteer management – in Plymouth (2010 General Election), Brent and Harrow (2012 London Mayoral election), Bristol (2012 Bristol Mayoral election and 2013 local government elections), and Kingswood (2014 European Parliament election and 2015 General Election).
 
-##Education
+##<a name="Education">Education</a>
 
 ####Makers Academy Remote (April 2016 to July 2016)
 - Highly selective 12-week bootcamp plus 4 week precourse
@@ -69,7 +69,7 @@ I led the organisation of Labour Party election campaigns – including responsi
 ####Open University (2009-2010)<br />
 - A-level equivalent in Mathematics
 
-##Experience
+##<a name="Experience">Experience</a>
 
 #####Labour Party, _Regional Organiser_ (March 2010 - October 2015)<br />
 
@@ -79,7 +79,7 @@ I led the organisation of Labour Party election campaigns – including responsi
 
 #####Haverstock School, _Guitar teacher_ (September 2008 - February 2010)<br />
 
-##Other
+##<a name="Other">Other</a>
 
 I write songs on the guitar occassionally, and play drums in two covers bands. I meditate by practicing paraddidles and double-stroke rolls to a metronome. 
 
