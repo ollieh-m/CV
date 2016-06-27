@@ -48,12 +48,14 @@ At Makers Academy, I learnt to collaborate on code.
 
 ##Education
 
-Makers Academy (April 2016 to July 2016)
-Studied software and web development with strong emphasis on pair programming, Test-Driven Development, and agile development. 
-Ruby/Rails, JavaScript/AngularJS, and PostgreSQL.
+#### Makers Academy (April 2016 to July 2016)
 
-Open University (2009-2010)
-Mathematics
+Studied software and web development with strong emphasis on pair programming, Test-Driven Development, and agile development. Focus on Ruby and Ruby on Rails, but also covering Javascript and Angular JS.
 
-Cambridge University (2005-2008)
-Social and Political Sciences, 2.1
+#### Open University (2009-2010)
+
+A-level equivalent in Mathematics
+
+#### Cambridge University (2005-2008)
+
+2.1 in Social and Political Sciences
