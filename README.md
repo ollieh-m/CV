@@ -55,30 +55,26 @@ I led the organisation of Labour Party election campaigns – including responsi
 ##Education
 
 ####Makers Academy Remote (April 2016 to July 2016)
-Highly selective 12-week bootcamp plus 4 week precourse. 
-Emphasis on pair programming, Test-Driven Development, Object Oriented Design, SOLID principles and agile development. 
-Mainly Ruby and Ruby on Rails, but also Javascript and Angular JS.
+- Highly selective 12-week bootcamp plus 4 week precourse
+- Emphasis on pair programming, Test-Driven Development, Object Oriented Design, SOLID principles and agile development
+- Mainly Ruby and Ruby on Rails, but also Javascript and Angular JS
 
 ####Open University (2009-2010)
-A-level equivalent in Mathematics
+- A-level equivalent in Mathematics
 
 ####Cambridge University (2005-2008)
-2.1 in Social and Political Sciences
-Winner of the H.D Schmidt Prize in Politics for the best performance in the conceptual essay paper (2007)
+- 2.1 in Social and Political Sciences
+- Winner of the H.D Schmidt Prize in Politics for the best performance in the conceptual essay paper (2007)
 
-####Open University (2009-2010)
-A-level equivalent in Mathematics
+####Open University (2009-2010)<br />
+- A-level equivalent in Mathematics
 
 ##Experience
 
-####Labour Party (2010-2015)
-_Regional Organiser_
+####Labour Party _Regional Organiser_ (March 2010 - October 2015)<br />
 
-####Demos (2009)
-_Research Intern_
+####Demos _Research Intern_ (December 2009 - March 2010)<br />
 
-####The Fabian Society (2009-2010)
-_Research Intern_
+####The Fabian Society _Research Intern_ (September 2009 - December 2009)<br />
 
-####Haverstock School (2008-2010)
-_Guitar teacher_
+####Haverstock School _Guitar teacher_ (September 2008 - February 2010)<br />
