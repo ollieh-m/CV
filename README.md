@@ -81,6 +81,6 @@ I led the organisation of Labour Party election campaigns – including responsi
 
 ##<a name="Other">Other...</a>
 
-I write songs on the guitar occassionally, and play drums in two covers bands. I meditate by practicing paraddidles and double-stroke rolls to a metronome. 
+I write songs on the guitar occasionally, and play drums in two covers bands. I meditate by practicing paraddidles and double-stroke rolls to a metronome. 
 
 I have a puppy whippet called Mabel who's started track racing. I run a bit as well. But I can't keep up.
