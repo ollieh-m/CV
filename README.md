@@ -11,19 +11,19 @@ Working on elections, I got huge satisfaction working out how to get what I need
 ##<a name="Mycode">My Code…</a>
 
 #### [**Phlash**](https://github.com/missamynicholson/phlash) | Made in two weeks
-Image-messaging iPhone app. Swipe right to take and send a picture to your followers. Swipe left to see the phlashes sent by the people you’re following.
+Image-messaging iPhone app. Swipe right to take and send a picture to your followers. Swipe left to see the phlashes sent by the people you’re following.<br />
 _Swift, Xcode, Parse_
 
 #### [**Memeories**](https://github.com/missamynicholson/memeories) | Made in four days
-Meme generator. Search for an image that reflects your mode, enter a top and bottom caption to create your meme, then see it on the Memeories mood board or post it in slack.
+Meme generator. Search for an image that reflects your mode, enter a top and bottom caption to create your meme, then see it on the Memeories mood board or post it in slack.<br />
 _Ruby on Rails, Capybara, Rspec, Postgres, Cloudinary, Amazon Web Services_
 
 #### [**Instagram clone**](https://github.com/ollieh-m/instagram-challenge) | Made in three days
-Post, comment on and like photos. Follow other users to get only their posts in your feed.
+Post, comment on and like photos. Follow other users to get only their posts in your feed.<br />
 _Ruby on Rails, Amazon Web Services, Capybara, Rspec, Postgres_
 
 #### [**News Feed**](https://github.com/ollieh-m/news-feed) | Made in two days
-Get live headlines from the Guardian, relevant images from Getty Images, and a summary of each article.
+Get live headlines from the Guardian, relevant images from Getty Images, and a summary of each article.<br />
 _Angular, Getty Images API, Aylien API, Protractor, Karma_
 
 ##<a name="Fastlearner">Fast learner…</a>
