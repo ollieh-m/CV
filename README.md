@@ -59,9 +59,6 @@ I led the organisation of Labour Party election campaigns – including responsi
 - Emphasis on pair programming, Test-Driven Development, Object Oriented Design, SOLID principles and agile development
 - Mainly Ruby and Ruby on Rails, but also Javascript and Angular JS
 
-####Open University (2009-2010)
-- A-level equivalent in Mathematics
-
 ####Cambridge University (2005-2008)
 - 2.1 in Social and Political Sciences
 - Winner of the H.D Schmidt Prize in Politics for the best performance in the conceptual essay paper (2007)
