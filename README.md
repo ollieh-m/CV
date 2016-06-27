@@ -5,9 +5,9 @@ Diligent problem-solving enthusiast, pushing myself every day to learn and impro
 After five years organising national and local elections across the South West, I hung up my campaigning boots and threw myself into the 16-week intensive Makers Academy bootcamp.
 I completed the course in July, and am now very excited to be seeking my first job as a Junior Developer.
 
-#### My Code…
+## My Code…
 
-Phlash - https://github.com/missamynicholson/phlash - fork
+#### Phlash - https://github.com/missamynicholson/phlash - fork
 Image-messaging iPhone app. Swipe right to take and send a picture to your followers. Swipe left to see the phlashes sent by the people you’re following. 
 Made in two weeks.
 Swift, Xcode, Parse.
