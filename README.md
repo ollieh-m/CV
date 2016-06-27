@@ -6,7 +6,7 @@
 
 After five years organising national and local elections across the South West, I hung up my campaigning boots, got addicted to Codewars, and threw myself into the 16-week intensive **Makers Academy** bootcamp, which I finished in July.
 
-Working on elections, I got huge satisfaction working out how to get what I needed from the tools available to me, but I was always frustrated by the limits of what I understood about how those tools worked. Learning to code has been like lifting a veil on the world around me – it’s an amazing feeling, and addictive, and I’m now massively excited to be seeking my first job as a Junior Developer, so I can on learning by throwing myself into new challenges.
+Working on elections, I got huge satisfaction working out how to get what I needed from the tools available to me, but I was always frustrated by the limits of what I understood about how those tools worked. Learning to code has been like lifting a veil on the world around me – it’s an amazing feeling, and addictive, and I’m now massively excited to be seeking my first job as a Junior Developer, so I can carry on throwing myself into new challenges and learning along the way.
 
 ##<a name="Mycode">My Code…</a>
 
