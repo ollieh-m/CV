@@ -71,10 +71,16 @@ I led the organisation of Labour Party election campaigns – including responsi
 
 ##Experience
 
-####Labour Party _Regional Organiser_ (March 2010 - October 2015)<br />
+#####Labour Party, _Regional Organiser_ (March 2010 - October 2015)<br />
 
-####Demos _Research Intern_ (December 2009 - March 2010)<br />
+#####Demos, _Research Intern_ (December 2009 - March 2010)<br />
 
-####The Fabian Society _Research Intern_ (September 2009 - December 2009)<br />
+#####The Fabian Society, _Research Intern_ (September 2009 - December 2009)<br />
 
-####Haverstock School _Guitar teacher_ (September 2008 - February 2010)<br />
+#####Haverstock School, _Guitar teacher_ (September 2008 - February 2010)<br />
+
+##Interests
+
+I write songs on the guitar occassionally, and play drums in two covers bands. I meditate by practicing paraddidles and double-stroke rolls to a metronome. 
+
+I have a whippet puppy who's starting track racing. I run a bit as well. But I can't keep up.
