@@ -1,27 +1,32 @@
 ## Ollie Haydon-Mulligan
 
-Diligent problem-solving enthusiast, pushing myself every day to learn and improve.
+**Diligent problem-solving enthusiast, pushing myself every day to learn and improve.**
 
 After five years organising national and local elections across the South West, I hung up my campaigning boots and threw myself into the 16-week intensive Makers Academy bootcamp.
+
 I completed the course in July, and am now very excited to be seeking my first job as a Junior Developer.
 
 ## My Code…
 
 #### [**Phlash**](https://github.com/missamynicholson/phlash) | Made in two weeks
-Image-messaging iPhone app. Swipe right to take and send a picture to your followers. Swipe left to see the phlashes sent by the people you’re following. 
-Swift, Xcode, Parse.
+Image-messaging iPhone app. Swipe right to take and send a picture to your followers. Swipe left to see the phlashes sent by the people you’re following.
+
+_Swift, Xcode, Parse_
 
 #### [**Memeories**](https://github.com/missamynicholson/memeories) | Made in four days
-Meme generator. Search for an image that reflects your mode, enter a top and bottom caption to create your meme, then see it on the Memeories mood board or post it in slack. 
-Ruby on Rails, Capybara, Rspec, Postgres, Cloudinary, Amazon Web Services.
+Meme generator. Search for an image that reflects your mode, enter a top and bottom caption to create your meme, then see it on the Memeories mood board or post it in slack.
+
+_Ruby on Rails, Capybara, Rspec, Postgres, Cloudinary, Amazon Web Services_
 
 #### [**Instagram clone**](https://github.com/ollieh-m/instagram-challenge) | Made in three days
-Post, comment on and like photos. Follow other users to get only their posts in your feed. 
-Ruby on Rails, Amazon Web Services, Capybara, Rspec, Postgres.
+Post, comment on and like photos. Follow other users to get only their posts in your feed.
+
+_Ruby on Rails, Amazon Web Services, Capybara, Rspec, Postgres_
 
 #### [**News Feed**](https://github.com/ollieh-m/news-feed) | Made in two days
-Get live headlines from the Guardian, relevant images from Getty Images, and a summary of each article. 
-Angular, Getty Images API, Aylien API, Protractor, Karma
+Get live headlines from the Guardian, relevant images from Getty Images, and a summary of each article.
+
+_Angular, Getty Images API, Aylien API, Protractor, Karma_
 
 ## Fast-learner…
 
