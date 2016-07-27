@@ -10,6 +10,10 @@ Working on elections, I got huge satisfaction working out how to get what I need
 
 ##<a name="Mycode">My Code…</a>
 
+#### [**Do Me A Favour**](https://github.com/ollieh-m/do-me-a-favour) | Toy project started on leaving Makers
+Rails app for organising chores. Create and join clans; post favours to clans; bid to do favours posted to your clans; accept bids and exchange Thank You Points when a favour has been carried out.<br />
+_Rails_
+
 #### [**Phlash**](https://github.com/ollieh-m/Phlash) | Made in two weeks
 Image-messaging iPhone app. Swipe right to take and send a picture to your followers. Swipe left to see the phlashes sent by the people you’re following.<br />
 _Swift, Xcode, Parse_
