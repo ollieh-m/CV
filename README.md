@@ -1,6 +1,6 @@
 [Me](#Me) | [My Code](#Mycode) | [Fast Learner](#Fastlearner) | [Team Player](#Teamplayer) | [Highly Organised](#Highlyorganised) | [Education](#Education) | [Experience](#Experience) | [Other](#Other)
 
-##<a name="Me">Ollie Haydon-Mulligan...</a> | ollie.hm@cantab.net | 07921 046417
+##<a name="Me">Ollie Haydon-Mulligan</a> | ollie.hm@cantab.net | 07921 046417
 
 
 **Diligent problem-solving enthusiast, pushing myself every day to learn and improve.**
