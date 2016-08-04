@@ -5,9 +5,9 @@
 
 **Diligent problem-solving enthusiast, pushing myself every day to learn and improve.**
 
-After five years organising national and local elections across the South West, I hung up my campaigning boots, got addicted to Codewars, and threw myself into the 16-week intensive **Makers Academy** bootcamp, which I finished in July.
+After five years organising national and local elections across the South West, I hung up my campaigning boots, got addicted to Codewars, then threw myself into the intensive **Makers Academy** training programme, to learn TDD, SOLID principles and agile processes, specialising in Ruby/Rails and Javascript/Angular. Since I completed the course in July I’ve been working on my own Rails projects and working through Thoughtbot’s Upcase curriculum. 
 
-Working on elections, I got huge satisfaction working out how to get what I needed from the tools available to me, but I was always frustrated by the limits of what I understood about how those tools worked. Learning to code has been like lifting a veil on the world around me – it’s an amazing feeling, and addictive, and I’m now massively excited to be seeking my first job as a Junior Developer, so I can carry on throwing myself into new challenges and learning along the way.
+Working on elections, I got huge satisfaction working out how to get what I needed from the tools available to me, but I was always frustrated by the limits of what I understood about how those tools worked. Learning to code has been like lifting a veil on the world around me – it’s an amazing feeling, and I’m hugely excited to be taking my next step as a developer so I can continue pushing myself to learn and improve.
 
 ##<a name="Mycode">My Code…</a>
 
